@@ -1,0 +1,22 @@
+.header {
+    width: 100%;
+    font-family: 'Russo One', sans-serif;
+    font-size: 3rem;
+    color: #black;
+    margin-bottom: 10px;
+}
+  
+.title {
+    float: left;
+    margin-left: 100px;
+}
+
+.highScore {
+    float: right;
+    margin-right: 100px;
+}
+
+.score {
+    float: right;
+    margin-right: 100px;
+}
