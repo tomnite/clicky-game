@@ -2,7 +2,7 @@
 
 ### Summary
 
-In this project, I created a simple memory game with React.js, with the goal of breaking the applications UI into components, managing the component states, and respond to user events.
+In this project, I created a memory game with React.js, with the goal of breaking the applications UI into components, managing the component states, and respond to user events.
 
 - - - 
 
