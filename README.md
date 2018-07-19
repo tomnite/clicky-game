@@ -1,9 +1,12 @@
 # clicky-game
 
-## Summary:
+### Summary
+
 In this project, I created a simple memory game with React.js, with the goal of breaking the applications UI into components, managing the component states, and respond to user events.
 
-### Instructions:
+- - - 
+
+### Instructions
 1. The app displays a dozen different images of Star Wars action figures. 
 
 2. Each time the user clicks on an image, the pictures are shuffled. The goal for the user is to click on each image once and only once. 
